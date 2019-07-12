@@ -1,3 +1,5 @@
+package com.caohuijun.helloWorld;
+
 public class division {
     public static void main(String[] args) {
         int div=77;

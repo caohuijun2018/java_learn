@@ -1,4 +1,6 @@
-/*public class Multiplication {
+package com.caohuijun.helloWorld;
+
+/*public class com.caohuijun.helloWorld.Multiplication {
     public static void main(String[] args) {
         for(int i=1;i<=9;i++){
             String line="";

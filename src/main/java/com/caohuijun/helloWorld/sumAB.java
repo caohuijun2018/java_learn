@@ -1,3 +1,5 @@
+package com.caohuijun.helloWorld;
+
 public class sumAB {
     public static void main(String[] args) {
         int[] nums = { 2, 7, 11, 15};
@@ -12,3 +14,4 @@ public class sumAB {
     }
 
 }
+

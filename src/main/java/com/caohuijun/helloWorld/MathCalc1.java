@@ -1,3 +1,5 @@
+package com.caohuijun.helloWorld;
+
 public class MathCalc1 {
     public static void main(String[] args) {
         System.out.println(5 + 6);

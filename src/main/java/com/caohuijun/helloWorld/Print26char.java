@@ -1,3 +1,5 @@
+package com.caohuijun.helloWorld;
+
 public class Print26char {
     public static void main(String[] args) {
         char ch ='A';

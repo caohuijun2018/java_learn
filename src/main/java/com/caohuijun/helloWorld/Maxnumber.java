@@ -1,3 +1,5 @@
+package com.caohuijun.helloWorld;
+
 public class Maxnumber {
     public static void main(String[] args) {
         int a = 10;
